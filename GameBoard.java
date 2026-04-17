@@ -1,4 +1,4 @@
-package com.minesweeper;
+
 
 import java.util.*;
 import java.io.*;
