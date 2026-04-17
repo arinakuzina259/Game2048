@@ -1,4 +1,3 @@
-package com.minesweeper;
 
 import javax.swing.*;
 import java.awt.*;
